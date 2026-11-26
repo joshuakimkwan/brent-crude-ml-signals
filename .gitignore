@@ -1,0 +1,6 @@
+# Only the code and data are published
+LaTeX/
+*.pdf
+*.zip
+__pycache__/
+*.pyc
